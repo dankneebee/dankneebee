@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! I'm an Aspiring Fullstack Dev.</h1>
+<h1 align="center">Hi! I'm an Aspiring Fullstack Dev</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dankneebee&label=Profile%20views&color=66023c&style=flat&count_private=true" alt="dankneebee" /> </p>
 
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20">  I’m currently learning **React** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"> 
