@@ -16,4 +16,4 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dankneebee&theme=material-palenight&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankneebee&theme=material-palenight&show_icons=true&hide_border=false&layout=compact" height="215">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankneebee&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" height="215">
